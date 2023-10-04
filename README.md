@@ -1,11 +1,14 @@
+# ENS410064_1
 
-# ENS410064-41010033DO/ME (20233) - Tópicos especiais: Python in Environmental Applications
+Pasta da disciplina de python
 
->  Programa de Pós-Graduação em Engenharia Ambiental  
->  Universidade Federal de Santa Catarina  
->  Professor: Leonardo Hoinaski  
+*Proprietário: Leonardo Hoinaski*
 
-Este repositório contém os materiais utilizados na disciplina de Tópicos especiais: Python in Environmental Applications do Programa de Pós-Graduação em Engenharia Ambiental da Universidade Federal de Santa Catarina. Utilizarei o Jupyter Notebook para elaborar os tutoriais e códigos em Python. 
+Nesta pasta contém:
 
 
+* scripts = códigos em python
+* dados = pasta com dados
+
+[https://hoinaski.prof.ufsc.br/]
 
